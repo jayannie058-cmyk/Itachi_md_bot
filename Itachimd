@@ -1,0 +1,70 @@
+<div align="center">
+
+# ⚡ ITACHI BOT ⚡
+
+<p align="center">
+  <img src="https://files.catbox.moe/yourlogo.jpg" width="220">
+</p>
+
+### A Powerful Multi-Device WhatsApp Bot
+
+Fast • Secure • AI Powered • 24/7 Online
+
+---
+
+### ✨ Deploy Options
+
+[![Fork Repo](https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/Itachi-Bot/fork)
+
+[![Pair Code](https://img.shields.io/badge/Pair-Code-green?style=for-the-badge)](https://your-pair-site.onrender.com)
+
+[![QR Code](https://img.shields.io/badge/QR-Code-orange?style=for-the-badge)](https://your-pair-site.onrender.com/qr)
+
+</div>
+
+## ⚡ Features
+
+- AI Chat
+- Sticker Maker
+- Music Downloader
+- Video Downloader
+- TikTok Downloader
+- Facebook Downloader
+- Instagram Downloader
+- Group Management
+- Games
+- Auto Status View
+- Anti-Link
+- Anti-Delete
+- Welcome & Goodbye
+- Pair Code Support
+
+## 🚀 Deployment
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Itachi-Bot
+cd Itachi-Bot
+npm install
+npm start
+```
+
+## 🔑 Environment Variables
+
+```env
+SESSION_ID=
+OWNER_NUMBER=234XXXXXXXXXX
+BOT_NAME=ITACHI BOT
+PREFIX=.
+```
+
+## ❤️ Thanks To
+
+- Baileys
+- Node.js
+- All Contributors
+
+## 👑 Owner
+
+**YOUR NAME**
+
+⭐ Don't forget to star the repository if you like Itachi Bot!
