@@ -1,0 +1,34 @@
+📦 Itachi-Bot
+│
+├── 📁 assets
+│   ├── logo.jpg
+│   └── thumbnail.jpg
+│
+├── 📁 lib
+│   ├── functions.js
+│   ├── database.js
+│   └── config.js
+│
+├── 📁 plugins
+│   ├── ai.js
+│   ├── downloader.js
+│   ├── fun.js
+│   ├── group.js
+│   ├── owner.js
+│   ├── sticker.js
+│   └── tools.js
+│
+├── 📁 session
+│   └── creds.json
+│
+├── 📁 src
+│   ├── commands.js
+│   └── message.js
+│
+├── 📄 .env
+├── 📄 .gitignore
+├── 📄 config.js
+├── 📄 index.js
+├── 📄 package.json
+├── 📄 README.md
+└── 📄 LICENSE
