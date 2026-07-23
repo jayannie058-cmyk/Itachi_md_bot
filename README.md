@@ -28,4 +28,4 @@ BOT_NAME=ITACHI BOT
 PREFIX=.
 
 👑 Owner
-Your Name
+Lady RSM
